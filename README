@@ -1,0 +1,4 @@
+This class can overlay several images into a single image.
+It can take a list of image files distinct formats and sizes and creates another image file that overlays all the images, being the first in the back and the last in the front of all others.
+
+If the images are not of the same size, they will be aligned to a given rule that can determine if they are centered or aligned to a given edge or corner of the resulting image.
